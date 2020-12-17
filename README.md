@@ -24,3 +24,7 @@ Our software stack consists of the following (running on Ubuntu 20.04):
 * Database to be decided
 * Nginx
 * BIND 9 DNS server
+
+## License
+
+Licensed under the MIT license.
