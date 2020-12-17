@@ -28,5 +28,5 @@ Our software stack consists of the following (running on Ubuntu 20.04):
 ## License
 
 Licensed under the MIT license.
-<hr>
+
 (C) 2020 - [Nordflare SAS.](https://bhk.arctischia.eu/look.php?cname=&cid=NS000018376797SAS)
