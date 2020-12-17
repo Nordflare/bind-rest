@@ -1,3 +1,5 @@
+_**Notice**: This project is currently in development and is prone to issues, do not use it in a production environment (yet) and if you come across any issues while testing it for yourselves please report them in the issues tab._
+
 # BIND DNS RESTful API
 
 bind-rest is a RESTful API implementation for the BIND DNS server written in Node.js with help from EJS to manage files. 
